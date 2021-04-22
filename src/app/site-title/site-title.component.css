@@ -1,0 +1,32 @@
+
+h1{
+  text-decoration: none;
+  margin: 0;
+  color:black;
+
+}
+
+h1:hover{
+  color: #c7c5c4;
+
+}
+
+.siteTitle{
+  color:black;
+  text-decoration: none;
+
+}
+
+.siteTitle:visited{
+  color:black;
+
+}
+
+.logoText{
+  margin-bottom: 8px;
+  font-family: 'glacial_indifferencebold', Arial, sans-serif; 
+  font-size: 35px;
+  letter-spacing: 4px;
+
+}
+

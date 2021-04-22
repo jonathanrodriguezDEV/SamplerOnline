@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'glacial_indifferencebold';
+  src: url('../assets/glacialindifference-bold-webfont.woff') format('woff2'),
+       url('../assets/glacialindifference-bold-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+.logoContainer{
+  padding: 30px;
+  text-align: center;
+
+
+}
+.logoContainer a, .logoContainer a:visited{
+  color:black;
+
+}
+
