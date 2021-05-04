@@ -6,6 +6,5 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./site-title.component.css']
 })
 export class SiteTitleComponent{
-  title = "SAMPLER ONLINE"
  
 }

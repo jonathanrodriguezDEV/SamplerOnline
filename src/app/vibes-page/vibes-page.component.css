@@ -1,0 +1,5 @@
+.center {
+  width: calc(100% - 600px);
+  padding: 0px 300px;
+  position: relative;
+}

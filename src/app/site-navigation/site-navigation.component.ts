@@ -1,4 +1,3 @@
-import { Page } from './page';
 import { Component } from '@angular/core';
 
 @Component({
@@ -7,7 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./site-navigation.component.css']
 })
 export class SiteNavigationComponent  {
-  aboutPage = new Page("ABOUT", "about");
-  playlistPage = new Page("PLAYLIST", "playlist");
+  
 
 }

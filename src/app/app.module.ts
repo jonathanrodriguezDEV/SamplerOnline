@@ -1,3 +1,4 @@
+import { AppRoutingModule , routingComponents} from './app-routing.module';
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
@@ -10,9 +11,11 @@ import { SiteNavigationComponent } from './site-navigation/site-navigation.compo
     AppComponent,
     SiteTitleComponent,
     SiteNavigationComponent,
+    routingComponents,
   ],
   imports: [
-    BrowserModule
+    BrowserModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]
