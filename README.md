@@ -1,3 +1,15 @@
+/// SAMPLER ONLINE ///
+AUTHOR: Jonathan Rodriguez
+DATE: 12 May 2021
+
+/// DESCRIPTION ///
+CONGRATS!!! You have come across Jonathan Rodriguez's moodboard, SAMPLER ONLINE.  This
+blog was programmed during the April/May of 2021 in hopes of learning learning some Angular
+and AWS.  Please remeber it is a work in progress.  Don't roast me for my noob Angular skillz.
+Please stay tuned for updates!!!
+
+
+
 # SamplerOnline
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.1.
